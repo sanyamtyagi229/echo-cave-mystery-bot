@@ -6,7 +6,7 @@ An interactive multi-language mystery chatbot built on **Botpress Cloud**. It fe
 You can directly play and test the bot here:
 👉 [Play Echo Cave Mystery Bot](https://cdn.botpress.cloud/webchat/v3.7/shareable.html?configUrl=https://files.bpcontent.cloud/2026/10/15/05/20261015053305-K7TN4OMF.json)
 
-## ✨ Features
+## ✨ Features-
 - **50 Challenging Clues:** Test your wits across progressive mystery archives.
 - **Multilingual Support:** Play in English, Hindi, or Punjabi.
 - **Interactive Commands:** 
